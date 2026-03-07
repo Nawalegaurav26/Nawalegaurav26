@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nawalegaurav26
+- 👋 Hi, I’m @Nawale_gaurav26
 - 👀 I’m interested in Programming, data science & Artifical Intelligence And So on...
 - 🌱 I’m currently learning Computer science, Data science, Artificial Intelligence 
 - 💞️ I’m looking to collaborate on Projects based on Programing or Data Sciences And Hackathon's 
